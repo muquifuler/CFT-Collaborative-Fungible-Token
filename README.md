@@ -1,5 +1,5 @@
 # CFT-Collaborative-Fungible-Token
-CFT Collaborative Fungible Token
+CFT Collaborative Fungible Token -> preparing you to be presented as EIP
 Share financial or decision-making ownership of a blockchain asset.
 
 (BSC TESTNET) 1.0v -> https://autotoken.tech/TokenizedPixel/
